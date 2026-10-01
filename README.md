@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Altovv1337/Altovv1337/banner.jpg" width="100%" alt="banner" />
+  <img src="https://raw.githubusercontent.com/Altovv1337/Altovv1337/main/banner.jpg" width="70%" alt="banner" />
 </p>
 
-<p align="center"></p>
+<p align="center">no ai not ai only ai can ai (ai ai ai ai)</p>
